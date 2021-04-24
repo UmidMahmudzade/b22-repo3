@@ -1,0 +1,3 @@
+We just published our git repo
+to remote github.com repository
+Few things happened:
