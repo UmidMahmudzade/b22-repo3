@@ -1,3 +1,5 @@
 We just published our git repo
 to remote github.com repository
 Few things happened:
+adding some more changes to file
+typing more lines
