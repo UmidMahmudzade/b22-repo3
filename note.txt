@@ -3,3 +3,5 @@ to remote github.com repository
 Few things happened:
 adding some more changes to file
 typing more lines
+Adding some more lines 
+to commit
